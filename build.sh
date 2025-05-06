@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t agriconnect .
+docker build -t mobile .
