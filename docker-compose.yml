@@ -1,6 +1,6 @@
 version: '3'
 services:
   react-capstone:
-    image: "test1"
+    image: "mobile"
     ports:
-      - "85:80"
+      - "98:80"
